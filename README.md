@@ -8,3 +8,28 @@ If you will register on udemy.com and click on "Start Free Preview", аfter some
 ![Application](/img/expressjs-course.png?raw=true)
 
 ___
+
+
+<br/>
+
+### 03 PC Repair Website
+
+    Technology: Jade, JSON, Nodemailer
+
+
+009 Express Generator
+
+    # npm install -g express
+    # npm install -g express-generator
+
+    $ cd 03_PC_Repair_Website
+    $ express
+    $ npm install
+    $ npm install --save nodemailer
+
+    $ npm start
+
+http://localhost:3000/
+
+Templates:  
+http://getbootstrap.com/getting-started/#download
