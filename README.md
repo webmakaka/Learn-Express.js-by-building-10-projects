@@ -32,4 +32,9 @@ ___
 http://localhost:3000/
 
 Templates:  
-http://getbootstrap.com/getting-started/#download
+http://getbootstrap.com/getting-started/#download  
+http://getbootstrap.com/examples/jumbotron/  
+
+    $ npm start
+
+    

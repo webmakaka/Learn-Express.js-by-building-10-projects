@@ -2,6 +2,18 @@ doctype html
 html
   head
     title= title
-    link(rel='stylesheet', href='/stylesheets/style.css')
+    link(rel='stylesheet', href='/css/bootstrap.css')
+    link(rel='stylesheet', href='/css/style.css')
+    script(src='/js/bootstrap.js')
   body
-    block content
+    include ./includes/navbar.jade
+    include ./includes/showcase.jade
+
+    .container
+        block content
+     
+     
+     
+    hr
+    footer
+    p &copy; Company 2014
