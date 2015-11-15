@@ -22,6 +22,8 @@ ___
     # npm install -g express
     # npm install -g express-generator
 
+
+    $ mkdir 03_PC_Repair_Website
     $ cd 03_PC_Repair_Website
     $ express
     $ npm install
@@ -51,3 +53,36 @@ Nodemailer:
 https://github.com/andris9/Nodemailer
 
     $ npm start
+
+![Application](/img/03-01.png?raw=true)
+
+![Application](/img/03-02.png?raw=true)
+
+![Application](/img/03-03.png?raw=true)
+
+
+<br/>
+
+### 04 SportsBlog Application
+
+Technology: MongoDB, Mongoose
+
+014 MongoDB  Middleware
+
+    $ mkdir 04_SportsBlog_Application
+    $ cd 04_SportsBlog_Application
+    $ express
+
+    $ npm install
+    $ npm install --save connect-flash
+    $ npm install --save express-messages
+    $ npm install --save express-session
+    $ npm install --save express-validator
+    $ npm install --save moment
+    $ npm install --save mongoose
+
+    $ npm install -g nodemon
+
+    $ nodemon
+
+http://localhost:3000/
