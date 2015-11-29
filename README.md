@@ -93,3 +93,7 @@ http://localhost:3000/
 http://startbootstrap.com/template-overviews/clean-blog/
 
 http://html2jade.org/
+
+016 Routes Views - Concepts
+
+http://localhost:3000/articles/show/1
