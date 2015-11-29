@@ -86,3 +86,10 @@ Technology: MongoDB, Mongoose
     $ nodemon
 
 http://localhost:3000/
+
+
+015 Routes Views - Basics
+
+http://startbootstrap.com/template-overviews/clean-blog/
+
+http://html2jade.org/
