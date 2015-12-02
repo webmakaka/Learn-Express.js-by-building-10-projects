@@ -97,3 +97,5 @@ http://html2jade.org/
 016 Routes Views - Concepts
 
 http://localhost:3000/articles/show/1
+
+017 Routes Views - Implementation

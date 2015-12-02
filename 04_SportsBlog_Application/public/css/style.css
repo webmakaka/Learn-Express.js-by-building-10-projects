@@ -8,6 +8,11 @@
     background:#000 !important;
 }
 
+.spacer{
+    margin-top:40px;
+    height: 60px;
+}
+
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
