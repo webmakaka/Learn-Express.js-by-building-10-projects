@@ -3,7 +3,7 @@
 
 ___
 
-If you will register on udemy.com and click on "Start Free Preview", аfter some period you can recieve (by email) big discount on this course.
+If you will register on udemy.com and click on "Start Free Preview", аfter some period you can receive (by email) big discount on this course.
 
 ![Application](/img/expressjs-course.png?raw=true)
 
